@@ -35,10 +35,7 @@ A lightweight Python application that visualizes football (soccer) formations on
 
 ## Potential Enhancements
 
-Color-coded tactical zones (defense, midfield, attack).
-
-Custom player names or positions instead of default numbering.
-
-Export the 3D formation as an image or video.
-
-Real-time formation editing with drag-and-drop functionality.
+- Color-coded tactical zones (defense, midfield, attack).
+- Custom player names or positions instead of default numbering.
+- Export the 3D formation as an image or video.
+- Real-time formation editing with drag-and-drop functionality.
